@@ -1,11 +1,15 @@
-import { CartItemList as Root } from './CartListItem';
+import { Table } from './Table';
+import { Head } from './Head';
 import { Thumbnail } from './Thumbnail';
-import { Content } from './Content';
+import { Status } from './Status';
+import { StarsEvaluation } from './StarsEvaluation';
 import { Actions } from './Actions';
 
-export const CartListItem = {
-  Root,
+export const CarTable = {
+  Table,
+  Head,
   Thumbnail,
-  Content,
+  Status,
+  StarsEvaluation,
   Actions,
 };
