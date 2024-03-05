@@ -1,0 +1,46 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "name": "Mini Cooper 2020",
+      "image": "/assets/images/car.png",
+      "nextReservation": "11/07"
+    },
+    {
+      "id": 2,
+      "name": "Mini Cooper 2020",
+      "image": "/assets/images/car.png",
+      "nextReservation": "11/07"
+    },
+    {
+      "id": 3,
+      "name": "Mini Cooper 2020",
+      "image": "/assets/images/car.png",
+      "nextReservation": "11/07"
+    },
+    {
+      "id": 4,
+      "name": "Mini Cooper 2020",
+      "image": "/assets/images/car.png",
+      "nextReservation": "11/07"
+    },
+    {
+      "id": 5,
+      "name": "Mini Cooper 2020",
+      "image": "/assets/images/car.png",
+      "nextReservation": "11/07"
+    },
+    {
+      "id": 6,
+      "name": "Mini Cooper 2020",
+      "image": "/assets/images/car.png",
+      "nextReservation": "11/07"
+    },
+    {
+      "id": 7,
+      "name": "Mini Cooper 2020",
+      "image": "/assets/images/car.png",
+      "nextReservation": "11/07"
+    }
+  ]
+}
