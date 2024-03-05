@@ -1,4 +1,4 @@
-import { CarTable } from '.';
+import * as CarTable from '.';
 
 interface Props {
   car: {

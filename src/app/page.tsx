@@ -1,5 +1,5 @@
-import { CarTable } from '@/components/CarTable';
-import { cars } from '../../cars.json';
+import * as CarTable from '@/components/CarTable';
+import { cars } from '@/../cars.json';
 
 export default function Home() {
   const tableHeaders = ['Car', 'Next Reservation', 'Status', 'Rating'];
