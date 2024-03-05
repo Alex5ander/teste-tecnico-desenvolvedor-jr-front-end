@@ -1,19 +1,8 @@
-import { Table } from './Table';
-import { Head } from './Head';
-import { Body } from './Body';
-import { Row } from './Row';
-import { Thumbnail } from './Thumbnail';
-import { Status } from './Status';
-import { StarsEvaluation } from './StarsEvaluation';
-import { Actions } from './Actions';
-
-export const CarTable = {
-  Table,
-  Head,
-  Body,
-  Row,
-  Thumbnail,
-  Status,
-  StarsEvaluation,
-  Actions,
-};
+export { Table } from './Table';
+export { Head } from './Head';
+export { Body } from './Body';
+export { Row } from './Row';
+export { Thumbnail } from './Thumbnail';
+export { Status } from './Status';
+export { StarsEvaluation } from './StarsEvaluation';
+export { Actions } from './Actions';
